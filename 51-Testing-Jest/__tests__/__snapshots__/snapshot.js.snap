@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests al ciente Que sea igual con snapshot 1`] = `
+Object {
+  "dinero": 100,
+  "nombre": "samuel",
+  "tipo": "premium",
+}
+`;
